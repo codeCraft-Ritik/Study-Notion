@@ -78,19 +78,21 @@ The project follows a **client-server architecture** with three main components:
 
 ## 📸 You can preview the StudyNotion platform
 
-<img width="1905" height="917" alt="Image" src="https://github.com/user-attachments/assets/38aa9e9a-95f3-4779-a414-825cc5cf5658" /> 
+<img width="1909" height="912" alt="Image" src="https://github.com/user-attachments/assets/c919a11b-e99b-49d3-8bc6-dc3639a58779" />
 
-<img width="1919" height="916" alt="Image" src="https://github.com/user-attachments/assets/3123efeb-4bf2-4dff-a076-e14ad4404037" />
+<img width="1913" height="907" alt="Image" src="https://github.com/user-attachments/assets/8343c999-f300-4a77-9756-ecf53a02c820" />
 
-<img width="1909" height="905" alt="Image" src="https://github.com/user-attachments/assets/74568607-e17d-49f0-bd37-6d7ca95fb9a8" />
+<img width="1910" height="909" alt="Image" src="https://github.com/user-attachments/assets/0c87d121-8ed3-4f65-8ca0-f3be4eb329c3" />
 
-<img width="1910" height="903" alt="Image" src="https://github.com/user-attachments/assets/bb95542a-2312-4272-a48a-3f661da74017" />
+<img width="1908" height="907" alt="Image" src="https://github.com/user-attachments/assets/6729d142-902b-407a-8ac7-142a51faa966" />
 
-<img width="1919" height="909" alt="Image" src="https://github.com/user-attachments/assets/bd10c137-4c7e-4e4a-98f7-9bdd38e2e71d" />
+<img width="1907" height="834" alt="Image" src="https://github.com/user-attachments/assets/aee1dda6-f239-4603-b986-9105292ae296" />
 
-<img width="1919" height="907" alt="Image" src="https://github.com/user-attachments/assets/eb5bbbc1-f9b5-4e14-8759-2cc92584dd46" />
+<img width="1916" height="903" alt="Image" src="https://github.com/user-attachments/assets/c22a3e9e-fb40-40a1-82fa-463e44dee0a6" />
 
-<img width="1919" height="905" alt="Image" src="https://github.com/user-attachments/assets/4bec4ea7-1c2e-4e67-9034-721390f5e19b" />
+<img width="1915" height="908" alt="Image" src="https://github.com/user-attachments/assets/243795e6-b706-4b16-8d44-37995fdb5c6a" />
+
+<img width="1915" height="903" alt="Image" src="https://github.com/user-attachments/assets/32fb9004-f77f-479b-a743-64dd215d15b2" />
 
 
 
