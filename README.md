@@ -104,7 +104,7 @@ Clone the repository and install dependencies:
 
 ```bash
 # Clone repo
-git clone [https://github.com/codeCraft-Ritik/Study-Notion---EdTech-Platform.git](https://github.com/codeCraft-Ritik/Study-Notion.git)
+git clone https://github.com/codeCraft-Ritik/Study-Notion.git
 cd StudyNotion
 
 # Install backend
